@@ -1,5 +1,5 @@
 ### 1. 모델 파일 준비
-quantized_model.pth 을 다음 링크해서 다운로드 받기 <b>
+quantized_model.pth 을 다음 링크해서 다운로드 받기 <br>
 https://drive.google.com/file/d/1FvBUkKSjkOtcZb4oIa9lcyqaRw8W4nQ6/view?usp=drive_link
 
 ### 2. 가상환경 생성 및 활성화
